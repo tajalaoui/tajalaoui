@@ -9,8 +9,8 @@
 
 ---
 
-[<img align="left" height="31px" width="31px" alt="www.tajeddine.dev" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<img align="left" height="31px" width="31px" alt="www.tajeddine.dev" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+[<img align="left" alt="www.tajeddine.dev" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<img align="left"  alt="www.tajeddine.dev" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 ---
 
@@ -65,9 +65,7 @@
 
 </details>
 
-<!-- [website]: https://tajeddine.dev -->
-<!-- [linkedin]: https://www.linkedin.com/in/tajeddine-zemzmi-alaoui-29b889167/ -->
-
+[website]: https://tajeddine.dev
+[linkedin]: https://www.linkedin.com/in/tajeddine-zemzmi-alaoui-29b889167/
 [dev.to]: https://dev.to/tajeddine
-
-<!-- [instagram]: https://instagram.com/tajeddine-alaoui -->
+[instagram]: https://instagram.com/tajeddine-alaoui
