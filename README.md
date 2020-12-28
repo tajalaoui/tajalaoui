@@ -31,9 +31,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [HTTP Status codes](https://dev.to/tajeddine/http-status-codes-2m7n)
-- [Don't cheat on your programming language](https://dev.to/tajeddine/don-t-cheat-on-your-programming-language-1e95)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/tajeddine)
