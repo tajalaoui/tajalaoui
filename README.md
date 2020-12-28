@@ -15,15 +15,15 @@
 
 ### Languages & Frameworks:
 
-[<img align="left" alt="JavaScript" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Vue.js" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][website]
+[<img align="left" alt="JavaScript" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />][website]
+[<img align="left" alt="Vue.js" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" />][website]
 [<img align="left" alt="Vue.js" height="25px width="25px" src="https://nuxtjs.org/logos/nuxt-square.svg" />][website]
-[<img align="left" alt="Node.js" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
+[<img align="left" alt="Node.js" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />][website]
 [<img align="left" alt="MongoDB" height="25px width="25px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />][website]
 [<img align="left" alt="Google Cloud" height="25px width="25px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />][website]
-[<img align="left" alt="HTML5" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
+[<img align="left" alt="HTML5" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" />][website]
+[<img align="left" alt="CSS3" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" />][website]
+[<img align="left" alt="Sass" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" />][website]
 
 <br />
 <br />
@@ -38,20 +38,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/tajeddine)
-
-<!--
-<details>
-  <summary>:zap: Recent GitHub Activity</summary> -->
-
-<!--START_SECTION:activity-->
-<!-- 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) -->
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
