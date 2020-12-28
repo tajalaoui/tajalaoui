@@ -25,7 +25,7 @@
 [<img align="left" alt="CSS3" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" />][website]
 [<img align="left" alt="Sass" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" />][website] -->
 
-[<img align="left" alt="Sass" height="25px width="25px" src="https://tajeddine.dev/tech-logos/vue.svg" />][website] -->
+<img alt="Sass" height="25px width="25px" src="https://tajeddine.dev/tech-logos/vue.svg" />
 
 <!-- <br /> -->
 
