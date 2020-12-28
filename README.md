@@ -1,10 +1,10 @@
 ### Hi there, I'm Tajeddine 👋
 
-## I'm a Full Stack Developer, Gamer And an Athlete !!
+## I'm a Full Stack Developer, Gamer And an Athlete !
 
 - 🌱 I’m currently learning Google Cloud
 - 🥅 2021 Goals: Create my own social network
-- ⚡ Fun fact: I love to watch netflix and Cooking
+- ⚡ Fun fact: I love watching netflix and Cooking
 
 ### Languages & Frameworks:
 
@@ -12,6 +12,7 @@
 [<img align="left" alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />][website]
 [<img align="left" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />][website]
 [<img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />][website]
+[<img align="left" alt="google_cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />][website]
 [<img align="left" alt="google_cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />][website]
 
 <br />
