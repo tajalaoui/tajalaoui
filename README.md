@@ -9,7 +9,7 @@
 
 ---
 
-<img   alt="www.tajeddine.dev" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img alt="www.tajeddine.dev" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 ### Languages & Frameworks:
 
@@ -22,6 +22,7 @@
 <img align="left" alt="HTML5" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
 <br />
 <br />
 
@@ -35,8 +36,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/tajeddine)
-
----
 
 <!--
 <details>
@@ -55,8 +54,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats-git-master.tajeddine-js.vercel.app
-/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&bg_color=212121&title_color=29f709&&text_color=C9D1D9&icon_color=29f709" />
+<img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats-git-master.tajeddine-js.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&bg_color=212121&title_color=29f709&&text_color=C9D1D9&icon_color=29f709" />
 
 ![Top Langs](https://github-readme-stats-git-master.tajeddine-js.vercel.app/api/top-langs/?username=tajeddine-js&count_private=true&hide_border=true&bg_color=212121&title_color=29f709&text_color=C9D1D9)
 
