@@ -5,11 +5,12 @@
 - 🌱 I’m currently learning Google Cloud
 - 🥅 2021 Goals: Create my own social network
 - ⚡ Fun fact: I love to watch netflix and Cooking
-  <br />
 
----
-
+ <br />
+ 
 <img alt="www.tajeddine.dev" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+ <br />
 
 ### Languages & Frameworks:
 
