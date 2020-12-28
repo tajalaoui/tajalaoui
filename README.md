@@ -6,10 +6,6 @@
 - 🥅 2021 Goals: Create my own social network
 - ⚡ Fun fact: I love to watch netflix and Cooking
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -71,9 +67,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&title_color=#29f709" />
+  <img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&title_color=29f709" />
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=tajeddine-js)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajeddine-js)]
 
 </details>
 
