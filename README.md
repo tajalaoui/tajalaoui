@@ -13,9 +13,9 @@
 
 <!-- <br /> -->
 
-<!-- ### Languages & Frameworks:
+### Languages & Frameworks:
 
-[<img align="left" alt="JavaScript" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />][website]
+[<img align="left" alt="JavaScript" height="25px width="25px" raw="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />][website]
 [<img align="left" alt="Vue.js" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" />][website]
 [<img align="left" alt="Vue.js" height="25px width="25px" src="https://nuxtjs.org/logos/nuxt-square.svg" />][website]
 [<img align="left" alt="Node.js" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" />][website]
@@ -23,9 +23,9 @@
 [<img align="left" alt="Google Cloud" height="25px width="25px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />][website]
 [<img align="left" alt="HTML5" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" />][website]
 [<img align="left" alt="CSS3" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" />][website]
-[<img align="left" alt="Sass" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" />][website] -->
+[<img align="left" alt="Sass" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" />][website]
 
-<img alt="Sass" height="25px width="25px" src="https://tajeddine.dev/tech-logos/vue.svg" />
+<img alt="Sass" height="25px width="25px" raw="https://tajeddine.dev/tech-logos/vue.svg" />
 
 <!-- <br /> -->
 
