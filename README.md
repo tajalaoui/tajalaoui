@@ -8,21 +8,21 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="31px" color="#C9D1D9" alt="www.tajeddine.dev" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img height="31" width="31" color="#C9D1D9" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON NAME].svg" />][linkedin]
+[<img height="31" width="31" color="#C9D1D9" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON NAME].svg" />][instagram]
 
 <br />
 
 ### Languages & Frameworks:
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Vue.js" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.js" />
+<img align="left" alt="Node.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <br />
 <br />
 
@@ -31,6 +31,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [HTTP Status codes](https://dev.to/tajeddine/http-status-codes-2m7n)
 <!-- BLOG-POST-LIST:END -->
 
@@ -55,9 +56,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&bg_color=212121&title_color=29f709&&text_color=C9D1D9icon_color=29f709" />
+  <img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&bg_color=212121&title_color=29f709&&text_color=C9D1D9&icon_color=29f709" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajeddine-js&bg_color=212121&title_color=29f709&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajeddine-js&hide_border=true&bg_color=212121&title_color=29f709&text_color=C9D1D9)
 
 </details>
 
