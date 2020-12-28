@@ -9,20 +9,22 @@
 ### Connect with me:
 
 [<img align="left" width="31px" color="#C9D1D9" alt="www.tajeddine.dev" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img height="31" width="31" color="#C9D1D9" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON NAME].svg" />][linkedin]
-[<img height="31" width="31" color="#C9D1D9" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON NAME].svg" />][instagram]
+[<img height="31" width="31" color="#C9D1D9" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img height="31" width="31" color="#C9D1D9" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages & Frameworks:
 
-<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 <img align="left" alt="Vue.js" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.svg" />
-<img align="left" alt="Node.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Vue.js" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nuxt-dot-js.svg" />
+<img align="left" alt="Node.js" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
+<img align="left" alt="MongoDB" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />
+<img align="left" alt="Google Cloud" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlecloud.svg" />
+<img align="left" alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+<img align="left" alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img align="left" alt="Sass" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
 <br />
 <br />
 
