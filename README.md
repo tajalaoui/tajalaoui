@@ -5,26 +5,26 @@
 - 🌱 I’m currently learning Google Cloud
 - 🥅 2021 Goals: Create my own social network
 - ⚡ Fun fact: I love to watch netflix and Cooking
+  <br />
 
-### Connect with me:
+---
 
-[<img align="left" height="31" width="31px" alt="www.tajeddine.dev" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" height="31" width="31" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img align="left" height="31" width="31" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="31px" width="31px" alt="www.tajeddine.dev" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<img align="left" height="31px" width="31px" alt="www.tajeddine.dev" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-<br />
+---
 
 ### Languages & Frameworks:
 
-<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Vue.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Vue.js" width="25px" src="https://nuxtjs.org/logos/nuxt-square.svg" />
-<img align="left" alt="Node.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="25px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
-<img align="left" alt="Google Cloud" width="25px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
-<img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Vue.js" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="Vue.js" height="25px width="25px" src="https://nuxtjs.org/logos/nuxt-square.svg" />
+<img align="left" alt="Node.js" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" height="25px width="25px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
+<img align="left" alt="Google Cloud" height="25px width="25px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
+<img align="left" alt="HTML5" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" height="25px width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <br />
 <br />
 
@@ -33,6 +33,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [HTTP Status codes](https://dev.to/tajeddine/http-status-codes-2m7n)
 <!-- BLOG-POST-LIST:END -->
 
@@ -64,7 +65,9 @@
 
 </details>
 
-[website]: https://tajeddine.dev
-[linkedin]: https://www.linkedin.com/in/tajeddine-zemzmi-alaoui-29b889167/
+<!-- [website]: https://tajeddine.dev -->
+<!-- [linkedin]: https://www.linkedin.com/in/tajeddine-zemzmi-alaoui-29b889167/ -->
+
 [dev.to]: https://dev.to/tajeddine
-[instagram]: https://instagram.com/tajeddine-alaoui
+
+<!-- [instagram]: https://instagram.com/tajeddine-alaoui -->
