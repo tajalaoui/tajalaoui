@@ -8,15 +8,15 @@
 
 ### Connect with me:
 
-[<img align="left" width="31px" color="#C9D1D9" alt="www.tajeddine.dev" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img height="31" width="31" color="#C9D1D9" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img height="31" width="31" color="#C9D1D9" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="31" width="31px" color="#C9D1D9" alt="www.tajeddine.dev" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" height="31" width="31" color="#C9D1D9" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img align="left" height="31" width="31" color="#C9D1D9" alt="www.tajeddine.dev" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages & Frameworks:
 
-<img align="left" alt="JavaScript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+<img align="left" alt="JavaScript" color="#C9D1D9" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 <img align="left" alt="Vue.js" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.svg" />
 <img align="left" alt="Vue.js" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nuxt-dot-js.svg" />
 <img align="left" alt="Node.js" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
@@ -60,7 +60,7 @@
 
   <img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&bg_color=212121&title_color=29f709&&text_color=C9D1D9&icon_color=29f709" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajeddine-js&hide_border=true&bg_color=212121&title_color=29f709&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajeddine-js&count_private=true&hide_border=true&bg_color=212121&title_color=29f709&text_color=C9D1D9)
 
 </details>
 
