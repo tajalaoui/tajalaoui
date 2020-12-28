@@ -55,9 +55,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&bg_color=E0E0E0&title_color=29f709&icon_color=29f709" />
+  <img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&bg_color=212121&title_color=29f709&&text_color=C9D1D9icon_color=29f709" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajeddine-js&bg_color=E0E0E0&title_color=29f709)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajeddine-js&bg_color=212121&title_color=29f709&text_color=C9D1D9)
 
 </details>
 
