@@ -64,4 +64,3 @@
 [website]: https://tajeddine.dev
 [linkedin]: https://www.linkedin.com/in/tajeddine-zemzmi-alaoui-29b889167/
 [dev.to]: https://dev.to/tajeddine
-[instagram]: https://instagram.com/tajeddine-alaoui
