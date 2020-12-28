@@ -6,12 +6,12 @@
 - 🥅 2021 Goals: Create my own social network
 - ⚡ Fun fact: I love to watch netflix and Cooking
 
-<!-- <br /> -->
+<br />
 
 <!-- TODO Put on top ??? -->
 <!-- <img alt="www.tajeddine.dev" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> -->
 
-<br />
+<!-- <br /> -->
 
 <!-- ### Languages & Frameworks:
 
@@ -25,7 +25,7 @@
 [<img align="left" alt="CSS3" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" />][website]
 [<img align="left" alt="Sass" height="25px width="25px" src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" />][website] -->
 
-<br />
+<!-- <br /> -->
 
 ---
 
