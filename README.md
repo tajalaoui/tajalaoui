@@ -22,6 +22,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [HTTP Status codes](https://dev.to/tajeddine/http-status-codes-2m7n)
 <!-- BLOG-POST-LIST:END -->
 
@@ -30,7 +31,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats-git-master.tajeddine-js.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&bg_color=212121&title_color=29f709&&text_color=C9D1D9&icon_color=29f709" />
+<img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats-git-master.tajeddine-js.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&bg_color=212121&title_color=29f709&&text_color=C9D1D9&icon_color=29f709&layout=compact" />
 
 ![Top Langs](https://github-readme-stats-git-master.tajeddine-js.vercel.app/api/top-langs/?username=tajeddine-js&count_private=true&hide_border=true&bg_color=212121&title_color=29f709&text_color=C9D1D9)
 
