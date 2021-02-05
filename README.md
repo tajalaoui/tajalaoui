@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer, Gamer And an Athlete !
 
-- 🌱 I’m currently learning Google Cloud
+- 🌱 I’m currently improving my m.e.v.n stack skills
 - 🥅 2021 Goals: Create my own social network
 - ⚡ Fun fact: I love watching netflix and Cooking
 
