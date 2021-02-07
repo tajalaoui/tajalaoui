@@ -22,6 +22,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue vs React](https://dev.to/tajeddine/vue-vs-react-3630)
 - [Nuxt.js seo ready](https://dev.to/tajeddine/nuxt-js-seo-ready-4a4i)
 - [Transform your existing Nuxt.js app to PWA](https://dev.to/tajeddine/transform-your-nuxt-js-to-pwa-2a8j)
 - [HTTP Status codes](https://dev.to/tajeddine/http-status-codes-2m7n)
