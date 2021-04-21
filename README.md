@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer, Gamer And an Athlete !
 
 - 🌱 I’m currently learning: Typescript, Angular, Graphql
-- 🥅 2021 Goals: Land a job
+- 🥅 2021 Goals: Learn C#
 - ⚡ Fun fact: I love Calisthenics & Watching Netflix
 
 ### Languages & Frameworks:
