@@ -1,6 +1,6 @@
 ### Hi there, I'm Tajeddine 👋
 
-## I'm a Full Stack Developer, Gamer And an Athlete !
+## Software developer, Gamer And an Athlete !
 
 - 🌱 I’m currently learning: C#, Typescript, Graphql
 - 🥅 2021 Goals: Learn C#
