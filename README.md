@@ -34,11 +34,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
+
+
+</details>
+
 <img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats-git-master.tajeddine-js.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&bg_color=212121&title_color=29f709&&text_color=C9D1D9&icon_color=29f709&layout=compact" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajeddine-js&count_private=true&hide_border=true&bg_color=212121&title_color=29f709&text_color=C9D1D9)
-
-</details>
 
 [website]: https://tajeddine.dev
 [linkedin]: https://www.linkedin.com/in/tajeddine-zemzmi-alaoui-29b889167/
