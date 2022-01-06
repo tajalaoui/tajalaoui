@@ -2,9 +2,9 @@
 
 ## Software developer, Gamer And an Athlete !
 
-- 🌱 I’m currently learning: C#, Typescript, Graphql
-- 🥅 2021 Goals: Learn C#
-- ⚡ Fun fact: I love Calisthenics & Gaming ❤️
+- 🌱 I’m currently learning: Graphql
+- 🥅 2022 Goals: Senior vue.js developer
+- ⚡ Fun fact: I love Calisthenics, Cooking and Chess ❤️
 
 ### Languages & Frameworks:
 
