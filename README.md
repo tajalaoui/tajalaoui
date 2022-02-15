@@ -3,7 +3,7 @@
 ## Software developer, Gamer And an Athlete !
 
 - 🌱 I’m currently learning: Graphql
-- 🥅 2022 Goals: Senior vue.js developer
+- 🥅 2022 Goals: Mastering Javascript & Vue.js
 - ⚡ Fun fact: I love Calisthenics, Cooking and Chess ❤️
 
 ### Languages & Frameworks:
@@ -17,25 +17,10 @@
 <br />
 <br />
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Functional programming.js](https://dev.to/tajeddine/functional-programming-js-3gh2)
-- [Vue vs React](https://dev.to/tajeddine/vue-vs-react-3630)
-- [Nuxt.js seo ready](https://dev.to/tajeddine/nuxt-js-seo-ready-4a4i)
-- [Transform your existing Nuxt.js app to PWA](https://dev.to/tajeddine/transform-your-nuxt-js-to-pwa-2a8j)
-- [HTTP Status codes](https://dev.to/tajeddine/http-status-codes-2m7n)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://dev.to/tajeddine)
-
 ### :zap: GitHub Stats
 <img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats-git-master.tajeddine-js.vercel.app/api?username=tajeddine-js&count_private=true&show_icons=true&hide_border=true&bg_color=212121&title_color=29f709&&text_color=C9D1D9&icon_color=29f709&layout=compact" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajeddine-js&count_private=true&hide_border=true&bg_color=212121&title_color=29f709&text_color=C9D1D9)
 
-[website]: https://tajeddine.dev
+[website]: https://tajeddine.netlify.app/
 [linkedin]: https://www.linkedin.com/in/tajeddine-zemzmi-alaoui-29b889167/
-[dev.to]: https://dev.to/tajeddine
