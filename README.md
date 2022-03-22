@@ -2,8 +2,8 @@
 
 ## Software developer, Gamer And an Athlete !
 
-- 🌱 I’m currently learning: Graphql
-- 🥅 2022 Goals: Mastering Javascript & Vue.js
+<!-- - 🌱 I’m currently learning: Graphql
+- 🥅 2022 Goals: Mastering Javascript & Vue.js -->
 - ⚡ Fun fact: I love Calisthenics, Cooking and Chess ❤️
 
 ### Languages & Frameworks:
