@@ -22,5 +22,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajeddine-js&count_private=true&hide_border=true&bg_color=212121&title_color=29f709&text_color=C9D1D9)
 
-[website]: https://tajeddine.netlify.app/
-[linkedin]: https://www.linkedin.com/in/tajeddine-zemzmi-alaoui-29b889167/
+[website]: https://www.linkedin.com/in/tajeddine-zemzmi-alaoui/
