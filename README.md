@@ -6,11 +6,11 @@
 - 🥅 2022 Goals: Mastering Javascript & Vue.js -->
 - ⚡ Fun fact: I love Calisthenics, Cooking and Chess ❤️
 
-### Languages & Frameworks:
+### Languages:
 
 [<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />][website]
 [<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />][website]
-[<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][website]
+[<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=green" />][website]
 
 <br />
 <br />
