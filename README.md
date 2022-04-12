@@ -1,4 +1,4 @@
-### Hi there, I'm Tajeddine 👋
+### Hi there 👋
 
 ## Software developer, Gamer And an Athlete !
 
