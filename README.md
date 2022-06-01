@@ -2,7 +2,7 @@
 
 <h2>Software developer, Gamer And an Athlete !</h2>
 
-Autodidact learner who constantly seeks out innovative solutions to achieve the desired goals, Experienced in IT: Linux, Web, Desktop, Mobile, Networking and devops.
+<p>Autodidact learner who constantly seeks out innovative solutions to achieve the desired goals, Experienced in IT: Linux, Web, Desktop, Mobile, Networking and devops.</p>
 
 <!-- - 🌱 I’m currently learning: Graphql
 - 🥅 2022 Goals: Mastering Javascript & Vue.js -->
