@@ -1,11 +1,9 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px">!</h1>
 
-<h2>Software developer, Gamer And an Athlete !</h2>
+<h3>Software developer, Gamer And an Athlete !</h3>
 
 <p>Autodidact learner who constantly seeks out innovative solutions to achieve the desired goals, Experienced in IT: Linux, Web, Desktop, Mobile, Networking and devops.</p>
 
-<!-- - 🌱 I’m currently learning: Graphql
-- 🥅 2022 Goals: Mastering Javascript & Vue.js -->
 - ⚡ Fun fact: I love Calisthenics, Cooking and Chess ❤️
 
 ### Programming Languages:
