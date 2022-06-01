@@ -2,6 +2,8 @@
 
 ## Software developer, Gamer And an Athlete !
 
+Autodidact learner who constantly seeks out innovative solutions to achieve the desired goals, Experienced in IT: Linux, Web, Desktop, Mobile, Networking and devops.
+
 <!-- - 🌱 I’m currently learning: Graphql
 - 🥅 2022 Goals: Mastering Javascript & Vue.js -->
 - ⚡ Fun fact: I love Calisthenics, Cooking and Chess ❤️
