@@ -4,7 +4,7 @@
 
 <p>Autodidact learner who constantly seeks out innovative solutions to achieve the desired goals, Experienced in IT: Linux, Web, Desktop, Mobile, Networking and devops.</p>
 
-- ⚡ Fun fact: I love Calisthenics, Cooking and Chess ❤️
+- ⚡ Fun fact: Linux enthusiast ❤️
 
 ### Programming Languages:
 
