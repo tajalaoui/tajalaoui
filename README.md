@@ -2,9 +2,7 @@
 
 <h3>Software developer 👨‍💻 gamer 🎮 and an athlete 🏋️</h3>
 
-<p>Autodidact learner who constantly seeks out innovative solutions to achieve the desired goals, Experienced in IT: Linux, Web, Desktop, Mobile, Networking and devops.</p>
-
-- ⚡ Fun fact: Linux enthusiast 🐧
+<p>Linux enthusiast 🐧 who constantly seeks out innovative solutions to achieve the desired goals, Experienced in IT: Linux, Web, Desktop, Mobile and devops.</p>
 
 ### Programming Languages:
 
