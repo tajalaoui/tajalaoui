@@ -17,7 +17,7 @@
 <br />
 
 ### :zap: GitHub Stats
-<img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats-git-master.tajeddine-js.vercel.app/api?username=tajalaoui&count_private=true&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=29f709&&text_color=C9D1D9&icon_color=29f709&layout=compact" />
+<img align="left" alt="Tajeddine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tajalaoui&count_private=true&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=29f709&&text_color=C9D1D9&icon_color=29f709&layout=compact" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajalaoui&count_private=true&hide_border=true&bg_color=0f0f0f&title_color=29f709&text_color=C9D1D9)
 
