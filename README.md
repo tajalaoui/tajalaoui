@@ -1,5 +1,4 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"></h1>
-
 <h3>Software developer 👨‍💻 gamer 🎮 and an athlete 🏋️</h3>
 
 <p>Linux enthusiast 🐧 who constantly seeks out innovative solutions to achieve the desired goals, Experienced in IT: Linux, Web, Desktop and devops.</p>
