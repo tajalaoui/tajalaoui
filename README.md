@@ -1,8 +1,14 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"></h1>
+### 👨‍💻 About Me
+Passionate Software Developer, dedicated Gamer 🎮, and committed Athlete 🏋️. A Linux enthusiast 🐧 at heart, I thrive on innovation and problem-solving. With a rich background in IT, I specialize in Linux systems, web and desktop development, and DevOps practices. My journey in tech is driven by a constant pursuit of learning and applying cutting-edge solutions to complex challenges.
 
-<h3>Software developer 👨‍💻 gamer 🎮 and an athlete 🏋️</h3>
+### Skills & Expertise
+- **Linux Mastery:** Deep understanding of Linux environments, advocating for its versatility and reliability.
+- **Web & Desktop Development:** Proficient in creating responsive, user-friendly applications.
+- **DevOps Integration:** Skilled in automating and optimizing development workflows, ensuring seamless software deployment.
+- **Innovative Problem-Solving:** Known for my creative approach to overcoming technical challenges.
 
-<p>Linux enthusiast 🐧 who constantly seeks out innovative solutions to achieve the desired goals, Experienced in IT: Linux, Web, Desktop and devops.</p>
+### What I'm Seeking
+Opportunities to collaborate on projects that push the boundaries of technology, where I can contribute my expertise and grow alongside fellow tech enthusiasts.
 
 ### Programming Languages:
 
