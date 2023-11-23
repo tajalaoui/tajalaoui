@@ -7,9 +7,6 @@ Passionate Software Developer, dedicated Gamer 🎮, and committed Athlete 🏋�
 - **DevOps Integration:** Skilled in automating and optimizing development workflows, ensuring seamless software deployment.
 - **Innovative Problem-Solving:** Known for my creative approach to overcoming technical challenges.
 
-### What I'm Seeking
-Opportunities to collaborate on projects that push the boundaries of technology, where I can contribute my expertise and grow alongside fellow tech enthusiasts.
-
 ### Programming Languages:
 
 [<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=29f709&color=0f0f0f" />][website]
