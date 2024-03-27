@@ -5,9 +5,6 @@ Passionate Software Developer with a knack for turning lines of code into meanin
 **💻 Tech Enthusiast:**
 Diving deep into the realms of JavaScript, Typescript, and Go. I love building things with Vue.js and Nuxt.js on the frontend, Node.js on the backend, and Docker for containerization magic. From the intricacies of databases like MongoDB to the scalability of GCP, I'm always eager to embrace the latest tech.
 
-**🚀 Open Source Advocate:**
-Believing in the power of collaboration, I actively contribute to open source projects. My goal is to not only solve problems but also share knowledge and learn from the vibrant developer community.
-
 **🔧 Tools of the Trade:**
 - Languages: JavaScript, Typescript, Go
 - Frameworks: Vue.js, Nuxt.js
