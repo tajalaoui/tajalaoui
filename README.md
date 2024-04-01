@@ -12,9 +12,6 @@ Diving deep into the realms of JavaScript, Typescript, and Go. I love building t
 - Databases: MongoDB, SQL, Redis
 - DevOps: Docker, GCP
 
-**🌐 Web Artisan:**
-Crafting user-centric experiences and solving real-world problems through elegant and efficient code. My projects reflect a commitment to quality, usability, and staying at the forefront of web development trends.
-
 **📚 Continuous Learner:**
 In the ever-evolving landscape of technology, I believe in the mantra of "learn, adapt, and grow." Each line of code is an opportunity to enhance skills and embrace new challenges.
 
