@@ -8,7 +8,7 @@ Diving deep into the realms of JavaScript, Typescript, and Go. I love building t
 **🔧 Tools of the Trade:**
 - Languages: JavaScript, Typescript, Go
 - Frameworks: Vue.js, Nuxt.js
-- Backend: Node.js
+- Backend: Node.js, Nest.js
 - Databases: MongoDB, SQL, Redis
 - DevOps: Docker, GCP
 
