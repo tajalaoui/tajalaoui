@@ -30,3 +30,5 @@ In the ever-evolving landscape of technology, I believe in the mantra of "learn,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajalaoui&count_private=true&hide_border=true&bg_color=0f0f0f&title_color=29f709&text_color=C9D1D9)
 
 [website]: https://www.linkedin.com/in/tajeddine-zemzmi-alaoui/
+
+[![itpropro Nuxter profile](https://nuxters.nuxt.com/card/itpropro/og.png)](https://nuxters.nuxt.com/itpropro)
