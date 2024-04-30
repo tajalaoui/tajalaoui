@@ -31,4 +31,4 @@ In the ever-evolving landscape of technology, I believe in the mantra of "learn,
 
 [website]: https://www.linkedin.com/in/tajeddine-zemzmi-alaoui/
 
-[![itpropro Nuxter profile](https://nuxters.nuxt.com/card/itpropro/og.png)](https://nuxters.nuxt.com/itpropro)
+[![itpropro Nuxter profile](https://nuxters.nuxt.com/card/tajalaoui/og.png)](https://nuxters.nuxt.com/tajalaoui)
