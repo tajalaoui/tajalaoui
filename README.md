@@ -7,7 +7,7 @@ Diving deep into the realms of JavaScript, Typescript, and Go. I love building t
 
 **🔧 Tools of the Trade:**
 - Languages: JavaScript, Typescript, Go
-- Frontend: Vue.js, Nuxt.js
+- Frontend: Vue.js, Nuxt.js, Primevue, Tailwind, Vuetify
 - Backend: Node.js, Nest.js
 - Databases: MongoDB, SQL, Redis
 - DevOps: Docker, GCP
