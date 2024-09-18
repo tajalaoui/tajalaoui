@@ -9,8 +9,7 @@ I am a Software Developer with a focus on creating effective and scalable soluti
 - **Databases:** MongoDB, SQL, Redis
 - **DevOps:** Docker, GCP
 
-### About Me
-I am committed to continuous learning and improving my skills. My goal is to deliver high-quality software that meets users' needs and adapts to changing technologies.
+Committed to continuous learning and improving my skills. My goal is to deliver high-quality software that meets users' needs and adapts to changing technologies.
 
 ### Programming Languages:
 
