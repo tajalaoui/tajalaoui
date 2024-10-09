@@ -7,7 +7,6 @@ Software Developer with a focus on creating effective solutions. Specializing in
 - **Frontend:** Vue.js, Nuxt.js, PrimeVue, Tailwind, Vuetify
 - **Backend:** Node.js, Nest.js
 - **Databases:** MongoDB, SQL, Redis
-- **DevOps:** Docker, GCP
 
 Committed to constantly advancing my IT knowledge and effective collaboration.
 
