@@ -1,6 +1,6 @@
 👋 **Hi, I'm Tajeddine Zemzmi Alaoui**
 
-I am a Software Developer with a focus on creating effective and scalable solutions. My work spans both frontend and backend development, using modern technologies to build robust applications.
+Software Developer with a focus on creating effective solutions. Specializing in both frontend and backend development.
 
 ### Tech Skills
 - **Languages:** JavaScript, TypeScript, Go
@@ -9,7 +9,7 @@ I am a Software Developer with a focus on creating effective and scalable soluti
 - **Databases:** MongoDB, SQL, Redis
 - **DevOps:** Docker, GCP
 
-Committed to continuous learning and improving my skills. My goal is to deliver high-quality software that meets users' needs and adapts to changing technologies.
+Committed to constantly advancing my IT knowledge and effective collaboration.
 
 ### Programming Languages:
 
