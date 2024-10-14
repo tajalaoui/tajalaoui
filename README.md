@@ -1,14 +1,12 @@
 👋 **Hi, I'm Tajeddine Zemzmi Alaoui**
 
-Software Developer with a focus on creating effective solutions. Specializing in both frontend and backend development.
+Software Developer Specializing in both frontend and backend development.
 
 ### Tech Skills
 - **Languages:** JavaScript, TypeScript, Go
 - **Frontend:** Vue.js, Nuxt.js, PrimeVue, Tailwind, Vuetify
 - **Backend:** Node.js, Nest.js
 - **Databases:** MongoDB, SQL, Redis
-
-Committed to constantly advancing my IT knowledge and effective collaboration.
 
 ### Programming Languages:
 
