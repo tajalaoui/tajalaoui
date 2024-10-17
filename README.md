@@ -12,7 +12,7 @@ Software Developer Specializing in both frontend and backend development.
 
 
 
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=go&logoColor=29f709&color=0f0f0f)](#)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
