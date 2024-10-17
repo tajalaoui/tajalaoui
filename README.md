@@ -8,7 +8,7 @@ Software Developer Specializing in both frontend and backend development.
 [<img align="left" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=29f709&color=0f0f0f" />][website]
 [<img align="left" alt="go" src="https://img.shields.io/badge/node.js-00ADD8?style=for-the-badge&logo=go&logoColor=29f709&color=0f0f0f" />][website]
 [<img align="left" alt="go" src="https://img.shields.io/badge/vue.js-00ADD8?style=for-the-badge&logo=go&logoColor=29f709&color=0f0f0f" />][website]
-[<img align="left" alt="go" src="https://img.shields.io/badge/node.js-00ADD8?style=for-the-badge&logo=go&logoColor=29f709&color=0f0f0f" />][website]
+[<img align="left" alt="go" src="https://img.shields.io/badge/nuxt.js-00ADD8?style=for-the-badge&logo=go&logoColor=29f709&color=0f0f0f" />][website]
 
 
 
