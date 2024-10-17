@@ -6,10 +6,10 @@ Software Developer Specializing in both frontend and backend development.
 [<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=29f709&color=0f0f0f" />][website]
 [<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=29f709&color=0f0f0f" />][website]
 [<img align="left" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=29f709&color=0f0f0f" />][website]
-[<img align="left" alt="go" src="https://img.shields.io/badge/node.js-00ADD8?style=for-the-badge&logo=nodedotjs&logoColor=29f709&color=0f0f0f" />][website]
-[<img align="left" alt="go" src="https://img.shields.io/badge/vue.js-00ADD8?style=for-the-badge&logo=vuedotjs&logoColor=29f709&color=0f0f0f" />][website]
-[<img align="left" alt="go" src="https://img.shields.io/badge/nuxt.js-00ADD8?style=for-the-badge&logo=nuxtdotjs&logoColor=29f709&color=0f0f0f" />][website]
-[<img align="left" alt="go" src="https://img.shields.io/badge/linux-00ADD8?style=for-the-badge&logo=linux&logoColor=29f709&color=0f0f0f" />][website]
+[<img align="left" alt="node.js" src="https://img.shields.io/badge/node.js-00ADD8?style=for-the-badge&logo=nodedotjs&logoColor=29f709&color=0f0f0f" />][website]
+[<img align="left" alt="vue.js" src="https://img.shields.io/badge/vue.js-00ADD8?style=for-the-badge&logo=vuedotjs&logoColor=29f709&color=0f0f0f" />][website]
+[<img align="left" alt="nuxt.js" src="https://img.shields.io/badge/nuxt.js-00ADD8?style=for-the-badge&logo=nuxtdotjs&logoColor=29f709&color=0f0f0f" />][website]
+[<img align="left" alt="linux" src="https://img.shields.io/badge/linux-00ADD8?style=for-the-badge&logo=linux&logoColor=29f709&color=0f0f0f" />][website]
 
 
 <br />
