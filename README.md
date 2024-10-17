@@ -1,4 +1,4 @@
-## Hi, I'm Tajeddine Zemzmi Alaoui
+## Hi, I'm Tajeddine
 
 Software Developer Specializing in both frontend and backend development.
 
@@ -6,6 +6,10 @@ Software Developer Specializing in both frontend and backend development.
 [<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=29f709&color=0f0f0f" />][website]
 [<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=29f709&color=0f0f0f" />][website]
 [<img align="left" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=29f709&color=0f0f0f" />][website]
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 <br />
 <br />
