@@ -1,5 +1,7 @@
 # 👋 Tajeddine Zemzmi Alaoui
 
+---
+
 👨‍💻 Software Engineer | 🏗️ Building Scalable Web Applications I develop robust full-stack solutions with a focus on ⚡ performance optimization.
 
 ---
@@ -36,7 +38,8 @@
     <td width
 ="45%">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajalaoui&layout=compact&theme=dark&bg_color=0f0f0f&title_color=29f709&hide_border=true" />
-    </td>
+    </
+td>
   </tr>
 </table>
 
