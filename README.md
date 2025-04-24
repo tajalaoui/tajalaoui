@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Tajeddine 
+# Tajeddine Zemzmi Alaoui
 
-**🚀 Full-Stack Developer | Building Scalable Web Applications**
-
-Passionate about crafting clean, efficient full-stack solutions with modern web technologies. Specializing in performance optimization and user-centric design.
+** 👋 Tajeddine Zemzmi Alaoui
+👨‍💻 Software Engineer | 🏗️ Building Scalable Web Applications
+I develop robust full-stack solutions with a focus on ⚡ performance optimization and 🧹 maintainable code. My expertise lies in creating 🏢 enterprise-grade applications with modern web technologies.
 
 ---
 
@@ -34,19 +34,14 @@ Passionate about crafting clean, efficient full-stack solutions with modern web 
     <td width="55%">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tajalaoui&count_private=true&show_icons=true&theme=dark&bg_color=0f0f0f&title_color=29f709&icon_color=29f709&hide_border=true" />
     </td>
-    <td width="45%">
+    <td width
+="45%">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajalaoui&layout=compact&theme=dark&bg_color=0f0f0f&title_color=29f709&hide_border=true" />
     </td>
   </tr>
 </table>
 
 ---
-
-### 🔥 Recent Achievements
-- Improved application performance by 20% through SSR optimization
-- Boosted user engagement by 15% in enterprise web applications
-- Reduced production bugs by 40% using TypeScript integration
-- Implemented CI/CD pipelines reducing deployment time by 30%
 
 ---
 
