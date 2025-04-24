@@ -1,6 +1,6 @@
 # 👋 Tajeddine Zemzmi Alaoui
 
-### 👨‍💻 Software Engineer | 🏗️ Building Scalable Web Applications I develop robust full-stack solutions with a focus on ⚡ performance optimization and 🧹 maintainable code. My expertise lies in creating 🏢 enterprise-grade applications with modern web technologies.
+#### 👨‍💻 Software Engineer | 🏗️ Building Scalable Web Applications I develop robust full-stack solutions with a focus on ⚡ performance optimization and 🧹 maintainable code. My expertise lies in creating 🏢 enterprise-grade applications with modern web technologies.
 
 ---
 
@@ -46,4 +46,5 @@
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tajeddine-zemzmi-alaoui/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-29f709?style=for-the-badge&logo=vercel&logoColor=black)](https://tajeddine.vercel.app)
-[![Email](https://img.shields.io/badge/Email-29f709?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tajeddine.zmz.alaoui@gmail.com)
+[![Email
+](https://img.shields.io/badge/Email-29f709?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tajeddine.zmz.alaoui@gmail.com)
