@@ -1,6 +1,6 @@
 # 👋 Tajeddine Zemzmi Alaoui
 
-#### 👨‍💻 Software Engineer | 🏗️ Building Scalable Web Applications I develop robust full-stack solutions with a focus on ⚡ performance optimization and 🧹 maintainable code. My expertise lies in creating 🏢 enterprise-grade applications with modern web technologies.
+#### 👨‍💻 Software Engineer | 🏗️ Building Scalable Web Applications I develop robust full-stack solutions with a focus on ⚡ performance optimization.
 
 ---
 
@@ -16,7 +16,8 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Redis]
+(https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
 #### **Tools & DevOps**
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
