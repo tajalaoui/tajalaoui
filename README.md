@@ -1,6 +1,6 @@
 # 👋 Tajeddine Zemzmi Alaoui
 
-#### 👨‍💻 Software Engineer | 🏗️ Building Scalable Web Applications I develop robust full-stack solutions with a focus on ⚡ performance optimization.
+👨‍💻 Software Engineer | 🏗️ Building Scalable Web Applications I develop robust full-stack solutions with a focus on ⚡ performance optimization.
 
 ---
 
