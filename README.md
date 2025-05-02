@@ -1,4 +1,4 @@
-# 👋 Tajeddine Zemzmi Alaoui
+# 👋 Tajeddine
 
 ### 🛠️ Tech Stack
 
